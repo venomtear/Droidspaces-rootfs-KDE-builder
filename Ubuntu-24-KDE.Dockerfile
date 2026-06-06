@@ -14,7 +14,7 @@ ARG ENABLE_zip_ARG
 ARG ENABLE_docker_ARG
 ARG ENABLE_srf_ARG
 ARG ENABLE_tmoe_ARG
-ARG nacht
+ARG USERNAME
 ######################################################
 
 ENV DEBIAN_FRONTEND=noninteractive
